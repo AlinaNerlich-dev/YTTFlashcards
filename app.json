@@ -3,14 +3,12 @@
     "name": "YTT Flashcards",
     "slug": "ytt-flashcards",
     "version": "1.0.0",
-
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
       "url": "https://u.expo.dev/5ac8fc39-bfd7-4073-ae1e-a635fdd09453"
     },
-
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "splash": {
@@ -18,7 +16,10 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.yourname.yttflashcards"
+      "bundleIdentifier": "com.yourname.yttflashcards",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.yourname.yttflashcards",
