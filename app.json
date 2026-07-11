@@ -2,6 +2,7 @@
   "expo": {
     "name": "YTT Flashcards",
     "slug": "ytt-flashcards",
+    "icon": "./assets/icon.png",
     "version": "1.0.0",
     "runtimeVersion": {
       "policy": "appVersion"
@@ -12,10 +13,13 @@
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
       "backgroundColor": "#F5F0E8"
     },
     "ios": {
       "supportsTablet": false,
+      "icon": "./assets/icon.png",
       "bundleIdentifier": "com.yourname.yttflashcards",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
@@ -24,6 +28,7 @@
     "android": {
       "package": "com.yourname.yttflashcards",
       "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#F5F0E8"
       }
     },
