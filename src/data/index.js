@@ -7,6 +7,7 @@ import { restorative } from './cards/yogastyles/restorative';
 import { vinyasa } from './cards/yogastyles/vinyasa';
 import { yin } from './cards/yogastyles/yin';
 import { basicseats } from './cards/postures/basicseats';
+import { origins } from './cards/history/origins';
 
 export { sections } from './categories';
 
@@ -20,6 +21,7 @@ export const flashcards = [
   ...vinyasa,
   ...yin,
   ...basicseats,
+  ...origins,
 ];
 
 export const getCardsByCategory = (categoryId) =>

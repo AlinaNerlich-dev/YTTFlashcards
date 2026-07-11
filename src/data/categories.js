@@ -22,4 +22,12 @@ export const sections = [
       { id: 'basicseats', label: 'Basic Seats', emoji: '◎' },
     ],
   },
+  {
+    id: 'history',
+    label: 'History & Philosophy',
+    emoji: '✦',
+    categories: [
+      { id: 'origins', label: 'Origins of Yoga', emoji: '◇' },
+    ],
+  },
 ];

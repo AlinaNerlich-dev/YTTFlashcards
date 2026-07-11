@@ -1,0 +1,86 @@
+export const origins = [
+  {
+    id: 'ori_01',
+    category: 'origins',
+    front: 'What does the Sanskrit word "yoga" mean?',
+    back: '"To yoke" or "to unite" — the union of the individual self (Atman) with the universal spirit (Brahman).',
+  },
+  {
+    id: 'ori_02',
+    category: 'origins',
+    front: 'Which spiritual traditions are yoga\'s roots intertwined with?',
+    back: 'Hinduism, Jainism, and Buddhism — yoga grew from multiple spiritual lineages over centuries.',
+  },
+  {
+    id: 'ori_03',
+    category: 'origins',
+    front: 'What are the Vedas and when were they written?',
+    back: 'Sacred Hindu texts (1700–1100 BCE) containing hymns, rituals, and spiritual guidance. The oldest known references to yoga.',
+  },
+  {
+    id: 'ori_04',
+    category: 'origins',
+    front: 'What was the central spiritual tool in the Vedas?',
+    back: 'Meditation — particularly chanting mantras from the Rig Veda, believed to elevate consciousness.',
+  },
+  {
+    id: 'ori_05',
+    category: 'origins',
+    front: 'What are the Upanishads and when were they composed?',
+    back: 'Philosophical texts (800–200 BCE) meaning "sitting down beside." They represent the culmination of Vedic thought.',
+  },
+  {
+    id: 'ori_06',
+    category: 'origins',
+    front: 'What are Brahman and Atman?',
+    back: 'Brahman = the infinite universal spirit. Atman = the individual soul. The Upanishads teach they are one and the same.',
+  },
+  {
+    id: 'ori_07',
+    category: 'origins',
+    front: 'What is the Bhagavad Gita?',
+    back: 'Part of the epic Mahabharata — a dialogue between warrior Arjuna and deity Krishna, teaching how to act in alignment with truth.',
+  },
+  {
+    id: 'ori_08',
+    category: 'origins',
+    front: 'What are the three paths of yoga from the Bhagavad Gita?',
+    back: 'Karma Yoga (selfless service) · Jnana Yoga (wisdom & knowledge) · Bhakti Yoga (devotion & love).',
+  },
+  {
+    id: 'ori_09',
+    category: 'origins',
+    front: 'Who compiled the Yoga Sutras and when?',
+    back: 'The sage Patanjali — around 200 CE. A collection of 196 short verses ("threads") as a blueprint for spiritual development.',
+  },
+  {
+    id: 'ori_10',
+    category: 'origins',
+    front: 'How does Patanjali define yoga?',
+    back: '"Yogas chitta vritti nirodhah" — Yoga is the stilling of the fluctuations of the mind.',
+  },
+  {
+    id: 'ori_11',
+    category: 'origins',
+    front: 'What are the Eight Limbs of Yoga?',
+    back: 'Yama · Niyama · Asana · Pranayama · Pratyahara · Dharana · Dhyana · Samadhi.',
+  },
+  {
+    id: 'ori_12',
+    category: 'origins',
+    front: 'What do the Yamas represent?',
+    back: 'Moral disciplines — how we treat others. Ahimsa · Satya · Asteya · Brahmacharya · Aparigraha.',
+  },
+  {
+    id: 'ori_13',
+    category: 'origins',
+    front: 'What do the Niyamas represent?',
+    back: 'Personal observances — how we treat ourselves. Saucha · Santosha · Tapas · Svadhyaya · Ishvara Pranidhana.',
+  },
+  {
+    id: 'ori_14',
+    category: 'origins',
+    front: 'What is the core teaching of Tantra in yoga philosophy?',
+    back: 'The entire universe is sacred — the divine is already present in your body, breath, and relationships. Enlightenment is here, not elsewhere.',
+  },
+];
